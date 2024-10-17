@@ -1,5 +1,8 @@
 # ChatGPT Prompt Engineering for Developers - Course Solutions
 
+![IMAGE](./DC-PromptEng.png)
+
+
 This repository contains all the course work solutions for the **DATACAMP course "ChatGPT Prompt Engineering for Developers"** by **Fouad Trad**. The repository showcases my progress and mastery in crafting prompts, refining outputs, and integrating language models into various applications.
 
 ## Course Modules
